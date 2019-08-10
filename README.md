@@ -23,8 +23,10 @@
 System will show all recommended courses along  with predicted score. 
 
 You should be able to view the output of item based filtering as below :
+
 ![alt text](Output Images/outputItemBasedFiltering.png)
 
 You should be able to view the output of user based filtering as below :
+
 ![alt text](Output Images/OutputUserBasedFiltering.png)
 
